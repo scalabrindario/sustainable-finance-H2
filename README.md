@@ -317,6 +317,12 @@ It's also important to mention that Tesla never provided transparency in terms o
 What is interesting is the vision that Tesla shares on ESG:
 >“We need to create a system that measures and scrutinizes actual positive impact on our planet, so unsuspecting individual investors can choose to support companies that can make and prioritize positive change”
 
+## Collaborators
+- [Dario Scalabrin](https://www.linkedin.com/in/scalabrindario/)
+- [Filippo Trapanese](https://www.linkedin.com/in/https://www.linkedin.com/in/filippo-trapanese-2729b3206/)
+- [Massimo Poretti](https://www.linkedin.com/in/poretti-massimo/)
+- [Soukaynah El Maliki](https://www.linkedin.com/in/soukaynah-el-maliki-63b7b71aa/)
+
 
 ## References
 <a id="1">[1]</a> Clark, G. L., Feiner, A., & Viehs, M. (2015). From the stockholder to the stakeholder: How sustainability can drive financial performance. Available at SSRN 2508281.<br>
