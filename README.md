@@ -352,3 +352,6 @@ What is interesting is the vision that Tesla shares on ESG:
 <a id="25">[25]</a> Timothy M. Doyle (2018), Ratings that Don’t Rate: The Subjective World of ESG Ratings Agencies, American Council for Capital Formation, https://corpgov.law.harvard.edu/2018/08/07/ratings-that-dont-rate-the- subjective-world-of-esg-ratings-agencies/<br>
 <a id="26">[26]</a> Tesla Inc. (2022), “Impact Report 2021”, https://www.tesla.com/ns_videos/2021-tesla-impact-report.pdf<br>
 <a id="27">[27]</a> CNBC (2021), “Tesla posts record earnings but on one stock market number Elon Musk’s EV company is still disappointing”, https://www.cnbc.com/2021/10/20/is-tesla-an-esg-investment-the-case-for-and-against-elon- musks-evs.html<br>
+
+## License 
+[MIT](https://choosealicense.com/licenses/mit/)
