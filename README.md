@@ -114,7 +114,7 @@ In 2018, the entry into force in China of “Guidelines For Establishing The Gre
 Overall, we can observe that over the years the distribution slightly shifts towards right, which means that companies are becoming more sustainable under the environmental point of view.
 
 ## Exercise 2
-#### In Question 5 of [Homework 1](https://github.com/scalabrindario/sustainable-finance-H1), you calculated effcient portfolios with various target returns. Take these portfolios, calculate and report the weighted-average E score of these portfolios. Comment on the E score of the portfolios. Which firms are driving the E score down? Plot the volatility of E score of the various portfolios
+#### In Question 5 of [Homework 1](https://github.com/scalabrindario/sustainable-finance-H1), you calculated efficient portfolios with various target returns. Take these portfolios, calculate and report the weighted-average E score of these portfolios. Comment on the E score of the portfolios. Which firms are driving the E score down? Plot the volatility of E score of the various portfolios
 
 In this question, we took the three optimal portfolios we calculated in Question #5 of [Homework 1](https://github.com/scalabrindario/sustainable-finance-H1) from our random sample of 50 firms with the target return of 2%, 4%, and 5.8%. Next, we calculated the relative weighted-average environmental score taking the average score of each firm until now and plotted in the figure below.
 
